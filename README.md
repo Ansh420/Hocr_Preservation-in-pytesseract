@@ -1,4 +1,4 @@
-# Pytesseract with HOCR preservation
+# Pytesseract with HOCR preservation    
 
 This is a fork of the Pytesseract library that preserves HOCR output. HOCR is a format for encoding the results of optical character recognition (OCR) in HTML. It is useful for preserving the layout of the original document and for further processing by other software.
 
